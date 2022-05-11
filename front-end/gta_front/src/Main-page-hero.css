@@ -1,0 +1,49 @@
+#main-page-hero {
+	height: 95%;
+
+	display: flex;
+	justify-content: flex-end;
+}
+
+.Main-page-hero-map-frame {
+	background-image: url("./sourses/gang_map.png");
+	background-size: cover;
+
+	width: 70%;
+	height: 85%;
+	margin-top: 5%;
+	margin-right: 7%;
+
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-between;
+	align-content: center;
+	align-items: stretch;
+}
+
+.Map-cell {
+	border: solid;
+	border-color: #20262e;
+	border-width: 1.5px; 
+	width: 12.4%;
+	height: 12.6%;
+
+	display: flex;
+
+	justify-content: flex-end;
+
+}
+
+.Map-cell a{
+	padding-left: 5%;
+	font-size: large;
+	font-weight: 500;
+}
+
+#rifle {
+
+	width: 70%;
+	height: 85%;
+	background-size: cover;
+}

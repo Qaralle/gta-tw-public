@@ -1,0 +1,824 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"FA",
+				"FAK_NUMB"
+			],
+			[
+				"Бан",
+				"Бандит_id"
+			],
+			[
+				"Пре",
+				"Предмет"
+			],
+			[
+				"co",
+				"COUNT"
+			],
+			[
+				"ID",
+				"ID_B"
+			],
+			[
+				"DE",
+				"DEL"
+			],
+			[
+				"KNO",
+				"KNOCK"
+			],
+			[
+				"KNOW",
+				"knock_down"
+			],
+			[
+				"wh",
+				"WHERE"
+			],
+			[
+				"ti",
+				"time_val"
+			],
+			[
+				"o",
+				"OUTP"
+			],
+			[
+				"Банд",
+				"Бандит"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"TI",
+				"TIMESTAMP"
+			],
+			[
+				"INT",
+				"INTO"
+			],
+			[
+				"is",
+				"is_knock_down"
+			],
+			[
+				"h",
+				"HEAL"
+			],
+			[
+				"ge",
+				"generate_subscripts"
+			],
+			[
+				"de",
+				"defense_id"
+			],
+			[
+				"a",
+				"attack_id"
+			],
+			[
+				"I",
+				"IF"
+			],
+			[
+				"RE",
+				"RETURN"
+			],
+			[
+				"G",
+				"GANG2_ID"
+			],
+			[
+				"th",
+				"that_block"
+			],
+			[
+				"pls",
+				"plpgsql"
+			],
+			[
+				"Б",
+				"Банда_id"
+			],
+			[
+				"Бло",
+				"Блок"
+			],
+			[
+				"GE",
+				"generate_subscripts"
+			],
+			[
+				"DEF",
+				"DEF_BANDITS_ID"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"RET",
+				"RETURNS"
+			],
+			[
+				"p",
+				"plpgsql"
+			],
+			[
+				"ID_",
+				"ID_BLOCK_RESP"
+			],
+			[
+				"k",
+				"knock_down"
+			],
+			[
+				"БА",
+				"Банда_id"
+			],
+			[
+				"IN",
+				"INTEGER"
+			],
+			[
+				"B",
+				"BEGIN"
+			],
+			[
+				"TIM",
+				"TIME"
+			],
+			[
+				"SET",
+				"SETOF"
+			],
+			[
+				"F",
+				"FUNCTION"
+			],
+			[
+				"pl",
+				"plase"
+			],
+			[
+				"get",
+				"get_block_bandits"
+			],
+			[
+				"ТИ",
+				"ТипХарактеристика"
+			],
+			[
+				"Ти",
+				"ТипХарактеристика"
+			],
+			[
+				"ти",
+				"ТипПредмета"
+			],
+			[
+				"T",
+				"TABLE"
+			],
+			[
+				"E",
+				"ELSE"
+			],
+			[
+				"n",
+				"NULL"
+			],
+			[
+				"O",
+				"ON"
+			],
+			[
+				"вре",
+				"времяВыселения"
+			],
+			[
+				"SE",
+				"SELECT"
+			],
+			[
+				"ба",
+				"Бандит"
+			],
+			[
+				"Re",
+				"RETURNS"
+			],
+			[
+				"L",
+				"LIB"
+			],
+			[
+				"BUI",
+				"BUILD"
+			],
+			[
+				"BU",
+				"BUILD"
+			],
+			[
+				"Res",
+				"RESOURSE"
+			],
+			[
+				"re",
+				"res_delay"
+			],
+			[
+				"res",
+				"res_delay"
+			],
+			[
+				"set",
+				"setTodos"
+			],
+			[
+				"todo",
+				"todos"
+			],
+			[
+				"To",
+				"TodoList"
+			],
+			[
+				"style",
+				"styles"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"sty",
+				"styles〔variable〕"
+			],
+			[
+				"Tod",
+				"TodoItem"
+			],
+			[
+				"st",
+				"styles"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ma",
+				"max_leds_num"
+			],
+			[
+				"le",
+				"leds_num"
+			],
+			[
+				"state_sw",
+				"state_sw_2"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pro",
+				"promise〔variable〕"
+			],
+			[
+				"sa",
+				"sanay"
+			],
+			[
+				"fra",
+				"frase"
+			],
+			[
+				"func",
+				"func〔argument〕"
+			],
+			[
+				"fu",
+				"func"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"ha",
+				"hash"
+			],
+			[
+				"su",
+				"sucker"
+			],
+			[
+				"slave",
+				"slaveCounter"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"ra",
+				"radio"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"head",
+				"headerText"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"stro",
+				"strokeStyle"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"se",
+				"setAttribute"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"c",
+				"cMarks"
+			],
+			[
+				"canvas",
+				"canvasDots"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"ca",
+				"canvasDots"
+			],
+			[
+				"can",
+				"canvasDots〔variable〕"
+			],
+			[
+				"lin",
+				"lineTo"
+			],
+			[
+				"val",
+				"validation.js"
+			],
+			[
+				"onc",
+				"onchange\tAttr"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"center",
+				"centerY"
+			],
+			[
+				"r",
+				"requestingURL"
+			],
+			[
+				"y",
+				"yParams"
+			],
+			[
+				"x",
+				"xParams"
+			],
+			[
+				"req",
+				"requestingURL〔variable〕"
+			],
+			[
+				"_",
+				"$_GET〔variable〕"
+			],
+			[
+				"rf",
+				"rFormValue"
+			],
+			[
+				"rF",
+				"rFormValue"
+			],
+			[
+				"xF",
+				"xFormValue"
+			],
+			[
+				"on",
+				"onauxclick\tAttr"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"sc",
+				"src"
+			],
+			[
+				"be",
+				"beginPath"
+			],
+			[
+				"ct",
+				"ctx"
+			],
+			[
+				"ce",
+				"centerX"
+			],
+			[
+				"cene",
+				"centerX〔variable〕"
+			],
+			[
+				"li",
+				"line"
+			],
+			[
+				"line",
+				"lineX"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"ta",
+				"table\tTag"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"class",
+				"class\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Pa",
+				"Package Control: List Packages"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Asus/Downloads/message (4).txt",
+		"/C/Users/Asus/Downloads/04.txt",
+		"/D/projects(Java)/springtime/src/main/resources/application.properties.dist",
+		"/D/projects(Java)/springtime/pom.xml",
+		"/C/Users/Asus/Desktop/seLab.cpp",
+		"/C/Users/Asus/Desktop/gradle tasks.txt",
+		"/D/Games/build.gradle",
+		"/C/Users/Asus/Desktop/sql_commands.txt",
+		"/C/Users/Asus/AppData/Local/Temp/scp04328/home/s284072/bd/sql_commands.txt",
+		"/D/FlStudio/Data/Projects/scanning/гнев.txt",
+		"/D/лабы/Databases/Курсач/db_course_work-main/functions.sql",
+		"/C/Users/Asus/Desktop/Новый текстовый документ (2).txt",
+		"/D/projects(C)/stepik-c-course-main/2-types/4-functions/6/higher-order-functions/main.c",
+		"/D/лабы/Databases/Курсач/db_course_work-main/indexes.sql",
+		"/D/лабы/Computer's arcitecture/доклад/сайты.txt",
+		"/C/Users/Asus/Downloads/360.m3u8",
+		"/C/Users/Asus/Downloads/480.m3u8",
+		"/C/Users/Asus/Downloads/master (3).m3u8",
+		"/C/Users/Asus/Downloads/master (2).m3u8",
+		"/C/Users/Asus/Downloads/master (1).m3u8",
+		"/C/Users/Asus/Downloads/master.m3u8",
+		"/C/Program Files/VDownloader/Readme.txt",
+		"/D/лабы/Databases/lr3/sql commands.sql",
+		"/D/лабы/Databases/lr1/sql commands.txt",
+		"/D/лабы/Databases/Курсач/functions.sql",
+		"/D/лабы/Databases/Курсач/io.sql",
+		"/D/лабы/Databases/Курсач/co.sql",
+		"/D/лабы/Operational Systems/blay_skrip.txt",
+		"/C/Users/Asus/Downloads/Telegram Desktop/Norman_D._Dizayin_Privyichnyih_VesheyiII.epub",
+		"/D/лабы/Operational Systems/lab 2/enterugn.txt",
+		"/D/projects(Java)/webLab3/src/main/resources/META-INF/persistence.xml",
+		"/D/анализ/англ/Knowledge-base answer.txt",
+		"/C/Users/Asus/Downloads/Telegram Desktop/Задание 5.txt",
+		"/D/projects(Java)/CMLabWork2.0/src/Main.java",
+		"/C/Users/Asus/Downloads/03.txt",
+		"/C/Users/Asus/Desktop/lb2.txt",
+		"/C/Users/Asus/Desktop/lb2.cpp",
+		"/C/Users/Asus/Desktop/gradle tasks.groovy",
+		"/D/видеоДурастер/VideoMaster 12.7rus/Ключ ЧИТАТЬ ПЕРЕД УСТАНОВКОЙ!.txt",
+		"/C/Users/Asus/AppData/Local/Temp/scp36997/home/s284072/bd/skript",
+		"/D/видеоДурастер/VideoMaster 12.7rus/_Silent Install.cmd",
+		"/D/counters/muchine learning/mledu-master/runtime.txt",
+		"/C/Users/Asus/Desktop/biba.csv",
+		"/D/лабы/для зачета по машинному обучению/requirements.txt",
+		"/C/Users/Asus/Desktop/шмотуи.txt",
+		"/C/Users/Asus/Downloads/kmod.c",
+		"/D/лабы/Computer's arcitecture/текст  доклада.txt",
+		"/D/projects(c++)/takingDamage/Source.cpp",
+		"/D/projects(c++)/Heroes inventory/Source.cpp",
+		"/C/Windows/System32/spool/drivers/x64/3/UNIDRV.DLL",
+		"/D/лабы/Databases/Курсач/do.sql",
+		"/C/Users/Asus/Downloads/master (4).m3u8",
+		"/D/лабы/Databases/lr3/sql commands.txt",
+		"/C/Users/Asus/Downloads/Telegram Desktop/co.sql",
+		"/C/Users/Asus/Downloads/Telegram Desktop/functions.sql",
+		"/C/Users/Asus/AppData/Local/Google/Chrome/User Data/SwReporter/91.265.200/manifest.json",
+		"/C/Users/Asus/Desktop/Новый текстовый документ (2).csv",
+		"/C/Users/Asus/Desktop/.DS_Store",
+		"/C/Users/Asus/Desktop/biba.txt",
+		"/C/Users/Asus/Downloads/Вопросы к экзамену (1)",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DIb42360.33427/Ключ ЧИТАТЬ ПЕРЕД УСТАНОВКОЙ!.txt",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DIa44176.31116/ПАРОЛЬ НА АРХИВ!!!.txt",
+		"/D/projects(Java)/springtime/src/main/java/org/comrades/springtime/security/jwt/TokenHandler.java",
+		"/D/Games/tasks.groovy",
+		"/D/projects(Java)/springtime/src/main/resources/application.properties",
+		"/C/Users/Asus/Desktop/Новый текстовый документ.txt",
+		"/C/Users/Asus/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DIa3880.49345/LICENSE.txt",
+		"/C/Users/Asus/Desktop/seLab.txt",
+		"/C/Users/Asus/AppData/Local/Temp/scp14991/home/s284072/MISPI/lab2/git-rep/cmds-git.sh",
+		"/D/анализ/МИСПИ/cmds-git.sh",
+		"/C/Users/Asus/AppData/Local/Temp/scp05129/home/s284072/MISPI/lab2/cmds-git.sh",
+		"/C/Users/Asus/Desktop/cmds-git.sh",
+		"/C/Users/Asus/Desktop/gitcomands.txt",
+		"/C/Users/Asus/Desktop/рарар.txt",
+		"/C/Users/Asus/Desktop/таки КУДА.txt",
+		"/C/Users/Asus/Desktop/презентация проекта.txt",
+		"/C/Users/Asus/AppData/Local/Temp/scp36688/home/s284072/public_html/index.html",
+		"/C/Users/Asus/AppData/Local/Temp/scp49770/home/s284072/wildfly-20.0.1.Final/standalone/configuration/standalone.xml",
+		"/C/Users/Asus/AppData/Local/Temp/Rar$DIa7208.7116/README.txt",
+		"/D/FlStudio/Plugins/VST/Pro-Q 3/Readme.txt",
+		"/C/Users/Asus/Desktop/2bzXzZm45Ek.txt",
+		"/C/Users/Asus/Desktop/2bzXzZm45Ek.jpg",
+		"/C/Users/Asus/AppData/Local/Temp/scp44080/home/s284072/wildfly/wildfly-20.0.1.Final/standalone/configuration/standalone.xml",
+		"/C/Users/Asus/AppData/Local/Temp/scp45147/home/s284072/wildfly/wildfly-20.0.1.Final/standalone/configuration/standalone.xml",
+		"/C/Users/Asus/AppData/Local/Temp/scp55019/home/s284072/wildfly/wildfly-20.0.1.Final/standalone/deployments/README.txt",
+		"/C/Users/Asus/AppData/Local/Temp/scp50708/home/s284072/wildfly/wildfly-20.0.1.Final/standalone/configuration/standalone.xml",
+		"/C/Users/Asus/AppData/Local/Temp/scp26296/home/s284072/wildfly/wildfly-21.0.0.Beta1/bin/standalone.sh",
+		"/C/Users/Asus/AppData/Local/Temp/scp09849/home/s284072/wildfly/wildfly-21.0.0.Beta1/standalone/configuration/standalone.xml",
+		"/C/Users/Asus/AppData/Local/Temp/scp58456/home/s284072/wildfly/wildfly-20.0.1.Final/standalone/configuration/standalone.xml",
+		"/C/Users/Asus/AppData/Local/Temp/scp54718/home/s284072/wildfly/wildfly-21.0.0.Beta1.zip",
+		"/D/projects(Java)/webLab2/target/webLab2-1.0-SNAPSHOT/js/send.js",
+		"/D/projects(Java)/webLab2/src/main/webapp/js/send.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp09119/home/s284072/public_html/js/arrows.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp00811/home/s284072/public_html/js/arrows.js",
+		"/D/лабы/OPD/Lab_work6/program_cod.txt",
+		"/D/projects(Java)/remoteMDB_02/mutliserver/mutliserver.iml",
+		"/D/лабы/OPD/о Unicode и UTF.txt",
+		"/D/анализ/о Unicode и UTF.txt",
+		"/D/лабы/WebLab/webLab1/main.css",
+		"/D/лабы/WebLab/webLab1/js/jquery.cookies.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp01604/home/s284072/public_html/php/process.php",
+		"/C/Users/Asus/AppData/Local/Temp/scp58848/home/s284072/public_html/js/send.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp18053/home/s284072/public_html/main.css",
+		"/C/Users/Asus/AppData/Local/Temp/scp39725/home/s284072/public_html/js/tableManager.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp40570/home/s284072/public_html/js/arrows.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp07680/home/s284072/public_html/main.css",
+		"/C/Users/Asus/AppData/Local/Temp/scp33715/home/s284072/public_html/main.css",
+		"/C/Users/Asus/AppData/Local/Temp/scp05208/home/s284072/public_html/index.html",
+		"/C/Users/Asus/AppData/Local/Temp/scp35906/home/s284072/public_html/index.html",
+		"/C/Users/Asus/AppData/Local/Temp/scp12410/home/s284072/public_html/index.html",
+		"/C/Users/Asus/AppData/Local/Temp/scp44177/home/s284072/public_html/main.css",
+		"/C/Users/Asus/AppData/Local/Temp/scp35754/home/s284072/public_html/js/validation.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp39515/home/s284072/public_html/js/arrows.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp54153/home/s284072/public_html/js/tableManager.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp54979/home/s284072/public_html/js/arrows.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp08713/home/s284072/public_html/js/send.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp48853/home/s284072/public_html/js/tableManager.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp34729/home/s284072/public_html/index.html",
+		"/C/Users/Asus/AppData/Local/Temp/scp15381/home/s284072/public_html/php/process.php",
+		"/C/Users/Asus/AppData/Local/Temp/scp41629/home/s284072/public_html/js/validation.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp42930/home/s284072/public_html/js/arrows.js",
+		"/C/Users/Asus/AppData/Local/Temp/scp55614/home/s284072/public_html/main.css",
+		"/C/Users/Asus/AppData/Local/Temp/scp29584/home/s284072/public_html/css/main.css",
+		"/D/лабы/WebLab/webLab1/js/validation.js",
+		"/D/лабы/WebLab/webLab1/index.html",
+		"/D/лабы/WebLab/webLab1/html&css/main.css",
+		"/C/Users/Asus/AppData/Local/Temp/scp22404/home/s284072/public_html/index.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 109.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

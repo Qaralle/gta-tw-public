@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  height: 100vh;
+  font-family: monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /*font-family: 'Diplomata';*/
+  font-family: 'Squada One';
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root {
+	height: 100%;
+}
+
+.App {
+	height: 100%;
+}

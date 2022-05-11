@@ -1,0 +1,29 @@
+.Main {
+	background-color: #1D2026;
+	height: 100%;
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#main-page-header button{
+
+	margin-right: 4%;
+	font-size: 130%;
+}
+
+#main-page-footer {
+	height: 0%;	
+
+	background-color: #9999;
+}
+
+#main-back-plug {
+	height: 100vh;
+}
+
+img {
+	width: 25px;
+	height: 25px;
+}

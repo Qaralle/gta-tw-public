@@ -1,0 +1,238 @@
+
+.Start-page {
+	height: 100%;
+	width: 100%;
+	
+	background-position: center;
+  	background-repeat: no-repeat;
+ 	background-size: cover;
+
+	display: flex;
+	align-items: center;
+}
+
+#login-page {
+	background-image: url("./sourses/Login-v1.jpg");
+}
+
+#register-page {
+	background-image: url("./sourses/Login-v2.png");	
+
+	justify-content: flex-end;
+}
+
+
+.Page-form-panel {
+	background-color: #FFFFFF;
+
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+
+	margin-left: 10%;
+}
+
+.Register {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+	margin-top: 3%	
+}
+
+#form-panel-hero-data input{
+	width: 65%;
+	margin-left: 5%;
+}
+#form-panel-hero-data {
+	width: 30%;
+	margin-left: 10%;	
+}
+#select {
+	font-size: initial;
+}
+
+.Page-form-panel #form-panel-footer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+	margin-top: 5%;
+}
+
+#login-page-form-panel {
+	width: 31%;
+	height: 65%;
+}
+#form-panel-header {
+	display: flex;
+	align-items: center;
+	flex-direction: column;	
+}
+
+.Login {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+
+	margin-top: 10%;
+}
+
+#register-page-form-panel {
+	width: 31%;
+	height: 75%;
+
+	justify-content: space-around;
+
+	margin-right: 15%;
+}
+.Input-panel {
+	width: 70%;
+	height: 70%;
+}
+
+.Input-panel input{
+	background-color: #C4C4C4;
+	display: block;
+	width: 100%;
+	height: calc(2rem);
+
+	font-family: inherit;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #212529;
+
+	background-clip: padding-box;
+	border: 1px solid #bdbdbd;
+	border-radius: 0.25rem;
+	transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.Input-panel p {
+	font-size: 170%;
+	margin-top: 10%;
+	margin-bottom: 2%;
+}
+
+.Login a {
+	font-size: 110%;
+	text-decoration: underline;
+}
+#form-panel-footer a {
+	font-size: 110%;
+	text-decoration: underline;
+}
+.Register lable {
+	font-size: 130%;
+}
+
+.Button {
+	background-color: #4C6A70;
+	color: #FFFFFF;
+
+	width: 30%;
+	height: 20%;
+
+
+	border-color:  #4C6A70;
+    cursor: pointer;
+    /*font-family: monospace;*/
+    font-family: 'Squada One';
+    font-size: 160%;
+    height: 36px;
+    line-height: 27px;
+    min-width: 54px;
+    padding: 0px 16px;
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: pre;
+}
+
+.Button:hover {
+  border-color: #dadce0;
+  box-shadow: rgba(0, 0, 0, .1) 0 2px 2px;
+  color: #DADADA;
+}
+
+.Button:focus {
+  outline: none;
+}
+
+
+.p-messages {
+	position: absolute;
+
+	margin-top: 2.5%;
+
+}
+.p-message.p-message-success {
+	background: linear-gradient(rgb(29, 32, 38), rgb(19, 226, 0) 350%);
+}
+
+.p-message.p-message-error {
+	background: linear-gradient(rgb(29, 32, 38), rgb(226, 0, 0) 370%);
+}
+
+.p-component {
+	font-family: 'Squada One';
+	font-size: 130%;
+}
+.p-message .p-message-wrapper {
+	padding: 0.6rem 1.7rem;
+
+	display: flex;
+
+	align-content: center;
+	box-sizing: border-box;
+}
+
+.p-message-box {
+	position: absolute;
+
+	background: linear-gradient(rgb(29, 32, 38), rgb(226, 0, 0) 370%);
+
+	font-family: 'Squada One';
+	font-size: 130%;
+	padding: 0.6rem 1.7rem;
+
+	margin: 1rem 0;
+    border-radius: 6px;
+}
+.p-message-box span{
+	color: white;
+
+	font-family: 'Squada One';
+	font-size: 130%;
+	padding: 0.6rem 1.7rem;
+}
+
+
+
+
+.Creditionals-message span {
+	color: #c40000;
+	font-size: 105%;
+	font-weight: bold;
+}
+
+
+
+.item-enter{
+  opacity: 0;
+}
+.item-enter-active{
+  opacity: 1;
+  transition: opacity 1000ms ease-in;
+}
+.item-exit{
+  opacity: 1;
+}
+.item-exit-active{
+  opacity: 0;
+  transition: opacity 500ms ease-in;
+}

@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08527f98.chunk.css",
+    "main.js": "/static/js/main.2e98f183.chunk.js",
+    "main.js.map": "/static/js/main.2e98f183.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7cef06cd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7cef06cd.js.map",
+    "static/css/2.3c495cd1.chunk.css": "/static/css/2.3c495cd1.chunk.css",
+    "static/js/2.5dc58594.chunk.js": "/static/js/2.5dc58594.chunk.js",
+    "static/js/2.5dc58594.chunk.js.map": "/static/js/2.5dc58594.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.3c495cd1.chunk.css.map": "/static/css/2.3c495cd1.chunk.css.map",
+    "static/css/main.08527f98.chunk.css.map": "/static/css/main.08527f98.chunk.css.map",
+    "static/js/2.5dc58594.chunk.js.LICENSE.txt": "/static/js/2.5dc58594.chunk.js.LICENSE.txt",
+    "static/media/theme.css": "/static/media/Inter-SemiBold.cca62d21.woff",
+    "static/media/Start-page.css": "/static/media/Login-v2.b9c9dddc.png",
+    "static/media/dice.4c3db18e.png": "/static/media/dice.4c3db18e.png",
+    "static/media/fist.3db0e8e6.png": "/static/media/fist.3db0e8e6.png",
+    "static/media/Main-page-hero.css": "/static/media/gang_map.364f539c.png",
+    "static/media/group.e5cb3c5e.png": "/static/media/group.e5cb3c5e.png",
+    "static/media/map.448fe8be.png": "/static/media/map.448fe8be.png",
+    "static/media/rifle.634fa08e.png": "/static/media/rifle.634fa08e.png",
+    "static/media/run.ee8399f1.png": "/static/media/run.ee8399f1.png",
+    "static/media/swords.1291fc60.png": "/static/media/swords.1291fc60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cef06cd.js",
+    "static/css/2.3c495cd1.chunk.css",
+    "static/js/2.5dc58594.chunk.js",
+    "static/css/main.08527f98.chunk.css",
+    "static/js/main.2e98f183.chunk.js"
+  ]
+}

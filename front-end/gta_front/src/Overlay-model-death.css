@@ -1,0 +1,72 @@
+.Death-overlay {
+	position: fixed;
+	z-index: 70;
+}
+
+.Modal-overlay {
+	position: fixed;
+	width: 100vw;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.9);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.Modal-window {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.Modal-content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.Modal-window img {
+	height: 30%;
+	width: 30%;
+}
+
+.Modal-titlebar {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.Modal-titlebar p {
+	font-size: 500%;
+	font-weight: bold;
+	font-family: 'Ruslan Display', serif;
+	/*color: #8f0000;*/
+	color: #a12e31;
+	margin-top: 0;
+	margin-bottom: 0;	
+}
+
+.Modal-content a{
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+
+.item-enter {
+  opacity: 0;
+}
+.item-enter-active {
+  opacity: 1;
+  transition: opacity 50ms ease-in;
+}
+.item-exit {
+  opacity: 1;
+}
+.item-exit-active {
+  opacity: 0;
+  transition: opacity 500ms ease-in;
+}

@@ -1,0 +1,30 @@
+
+.Start-page {
+	height: 100%;
+	width: 100%;
+	
+	background-position: center;
+  	background-repeat: no-repeat;
+ 	background-size: cover;
+
+	display: flex;
+	justify-content: space-between;
+
+}
+
+#login-page {
+		background-image: url("/static/mediaLogin-v1.jpg");
+}
+
+
+.Page-form-panel {
+	background-color: #FE7F88;
+	margin-top: 10%;
+	margin-left: 20%;
+}
+
+#login-page-form-panel {
+	width: 31%;
+	height: 65%;
+}
+

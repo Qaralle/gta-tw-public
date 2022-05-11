@@ -1,0 +1,157 @@
+#main-page-hero-revue {
+    height: 100%;
+    width: 20%;
+
+	background-color: #090909;
+	opacity: 0.7;
+}
+
+.Revue-panel {
+	margin-top: 10vh; 
+}
+
+#revue-district-panel {
+	background-color: #1D2026;
+	/*opacity: 0.7;*/
+
+	width: 90%;
+	height: 30%;
+}
+
+#revue-factory-panel {
+	background-color: #1D2026;
+	/*opacity: 0.7;*/
+
+	width: 90%;
+	height: 20%;
+}
+#revue-factory-panel-header {
+	height: 30%;
+}
+
+.Revue-panel-header {
+	background-color: #35383D;
+
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+
+	font-size: 120%;
+	width: 100%;
+	height: 20%;
+
+}
+
+.Revue-panel-header a {
+	color: #FFFFFF;
+
+	margin-left: 5%;
+}
+
+.Revue-panel-hero {
+	background-color: #1D2026;
+
+	width: 100%;
+	height: 50%;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+}
+
+.Test {
+	background-color: #FF2D21;
+	
+	width: 100%;
+	height: 30%;
+}
+
+#main-page-hero-revue-adge {
+	width: 100%;
+	height: 100%;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.Revue-district-info {
+	background-color: #C4C4C4;
+	height: 26%;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+
+
+}
+.Revue-district-info img {
+	margin-left: 9%;
+}
+
+.Revue-district-info a {
+	margin-left: 6%;
+
+	font-size: 110%;
+}
+
+.Revue-panel-header img {
+	margin-left: 3%;
+}
+
+.Move {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.Move button {
+	margin-top: 5%;
+
+	width: 50%;
+	font-size: 120%;
+
+}
+
+
+#Revue-factory-hero {
+	display: flex;
+	align-items: center;
+    flex-direction: column;
+    justify-content: flex-end;
+
+}
+
+.Revue-panel-hero button{
+
+	width: 50%;
+	font-size: 120%;
+}
+
+.Capture {
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	justify-content: space-around;
+}
+
+.Capture button{
+ 	margin-left: 25%;
+ 	width: 50%;
+	font-size: 120%;
+}
+
+
+#a-naming {
+	font-family: none;
+	font-style: italic;
+	font-size: 110%;
+}
+
+.Revue-district-capture-button {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
